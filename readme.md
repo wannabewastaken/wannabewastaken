@@ -3,4 +3,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp; and most powerful way possible. Oh, and I'll also make the clean UI/UX for my application because \
 &nbsp;&nbsp;&nbsp;&nbsp; my eyes insurance, let's face it, sucks.
 
-&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://skillicons.dev/icons?i=c,cpp,bash" width="100px"></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://skillicons.dev/icons?i=c,cpp,lua,bash" width="120px"></kbd>
